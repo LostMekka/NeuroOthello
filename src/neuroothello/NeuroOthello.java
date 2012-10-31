@@ -14,6 +14,9 @@ public class NeuroOthello {
 	 * @param args the command line arguments
 	 */
 	public static void main(String[] args) {
-		//
+		Viewer v = new Viewer();
+		v.setVisible(true);
+		v.setBoard(new GameField());
+		// TODO: start
 	}
 }
