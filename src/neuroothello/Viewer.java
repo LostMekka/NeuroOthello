@@ -57,7 +57,7 @@ public class Viewer extends javax.swing.JFrame {
         cbLearn.setSelected(true);
         cbLearn.setText("turn on learning");
 
-        jButton2.setText("jButton2");
+        jButton2.setText("a");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
